@@ -3,8 +3,8 @@ import WaitingForm from "../components/WaitingForm";
 import WaitingPositionLookup from "../components/WaitingPositionLookup";
 
 export const metadata: Metadata = {
-  title: "N:AND BAR 웨이팅",
-  description: "N:AND BAR 웨이팅 요청",
+  title: "진격의 한잔 웨이팅",
+  description: "진격의 한잔 웨이팅 요청",
 };
 
 export default function WaitingPage() {

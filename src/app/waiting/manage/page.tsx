@@ -8,7 +8,7 @@ import WaitingManager, {
 
 export const metadata: Metadata = {
   title: "웨이팅 목록 관리 페이지",
-  description: "N:AND BAR 웨이팅 목록 관리 페이지",
+  description: "진격의 한잔 웨이팅 목록 관리 페이지",
 };
 
 export const dynamic = "force-dynamic";
@@ -82,7 +82,7 @@ export default async function WaitingManagePage() {
         </div>
 
         <div className="mb-6 sm:mb-8">
-          <p className="text-sm font-semibold text-blue-600">N:AND BAR</p>
+          <p className="text-sm font-semibold text-blue-600">진격의 한잔</p>
 
           <h1 className="mt-2 text-2xl font-bold text-gray-900 sm:text-3xl">
             웨이팅 목록 관리

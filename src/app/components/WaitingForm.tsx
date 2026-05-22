@@ -62,7 +62,7 @@ export default function WaitingForm() {
   return (
     <div className="w-full max-w-md rounded-2xl bg-white p-8 shadow-xl">
       <h1 className="mb-2 text-2xl font-bold tracking-tight text-slate-900">
-        N:AND BAR 웨이팅
+        진격의 한잔 웨이팅
       </h1>
       <p className="mb-6 text-sm text-slate-600">
         연락처와 인원을 입력해 웨이팅을 접수합니다.
